@@ -1,0 +1,11 @@
+Volunteer Name                          Boxes Sold
+--------------------------------------------------
+Sarah                                           45
+Alex                                            12
+Michael                                         60
+John                                            32
+--------------------------------------------------
+Total Boxes Sold:                              149
+Total Revenue:                              819.50
+Average Boxes Sold:                          37.25
+Top Seller(s):                             Michael

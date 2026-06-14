@@ -255,7 +255,9 @@ int main() {
     } else {
         cout << "Thank you for utilizing the Cookie Sales Tracking platform. Farewell!\n";
     }
-
+    //Silence the unused variable warning by referencing it
+    (void)TOP_SELLER_BONUS_RATE;
+    
     inFile.close();
     outFile.close();
     return 0;
