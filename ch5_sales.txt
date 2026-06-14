@@ -1,0 +1,6 @@
+5.50
+Sarah 45
+Alex 12
+Michael 60
+Emily -5
+John 32
